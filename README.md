@@ -42,18 +42,6 @@ Furthermore, **how do you know the AI didn't invent a dummy or lethal instructio
        │ 3. Interrogates the AI with live corner cases
        ▼
 [Verified Skill Commons] ──► Sealed with SHA-256 HMAC signature and published
-```
-
----
-
-## 👥 The Two-Person "Trust Loop"
-
-| Role | Who They Are | What They Do |
-| :--- | :--- | :--- |
-| **Person 1: The Contributor** | Any frontline technician, farmer, or worker. | Speaks naturally in their own language. No programming knowledge required. |
-| **The AI (Apprentice)** | Open-weight model (Gemma 2 2B/9B). | Structures the demonstration into `SKILL.md` and sits for an oral exam. |
-| **Person 2: The Licensed Auditor** | Certified safety engineer or company inspector. | Validates license credentials, stresses the AI with oral questions, and stamps it as verified. |
-
 ---
 
 ## 🔬 Scientific Hook: The Teach-Back Exam & Fidelity Score

@@ -1,5 +1,6 @@
 # apprentice-ai
 The platform where humans can train AI models.
+even a beginer can freely tarin the ai models through the videos or images
 
 Description: MLH@Hackfest
 

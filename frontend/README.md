@@ -1,5 +1,6 @@
 # apprentice-ai
-the platfrom where Human can train  the AI model
+The platform where humans can train AI models.
+
 Description: MLH@Hackfest
 
 ## Language Composition
